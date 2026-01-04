@@ -1,3 +1,3 @@
 #kiri
 
-This is a kiri file.
+This is a kiri file!
